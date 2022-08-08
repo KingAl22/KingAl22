@@ -15,5 +15,7 @@ I'm a front-end Engineer and IT Support specialist,  who is passionate about web
 
 ---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KingAl22&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Ujunwa Chibueze Albert" /></p>
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=KingAl22&show_icons=true&include_all_commits=true&hide_border=true" alt="KingAl's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KingAl22&langs_count=8&layout=compact&hide_border=true" alt="KingAl's GitHub stats" /> |
 | ------------- | ------------- |
